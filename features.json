@@ -11,16 +11,6 @@
                 }
             ]
         },
-        "testing-atomist-seed": {
-            "features": [
-                {
-                    "name": "SpringBoot.Structure",
-                    "followers": [
-                        "new-project-from-seed"
-                    ]
-                }
-            ]
-        },
         "gradle-spring-rest-seed": {
             "features": [
                 {
