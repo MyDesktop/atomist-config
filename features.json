@@ -5,7 +5,8 @@
                 {
                     "name": "SpringBoot.Structure",
                     "followers": [
-                        "testing-atomist-seed"
+                        "testing-atomist-seed",
+                        "gradle-spring-rest-seed"
                     ]
                 }
             ]
