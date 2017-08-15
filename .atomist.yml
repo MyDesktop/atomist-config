@@ -52,3 +52,21 @@ editor:
     - "follower": "gradle-spring-rest-seed"
     - "featureName": "SpringBoot.Structure"
 
+---
+kind: "operation"
+client: "com.atomist:rug"
+version: "1.0.0-20170809213747"
+editor:
+  name: "AddFeatureFollowerEditor"
+  group: "atomist"
+  artifact: "spring-team-handlers"
+  version: "0.9.0"
+  origin:
+    repo: "git@github.com:atomisthq/spring-team-handlers.git"
+    branch: "96f76d1fdef8ba89272c97c8490cbd60c18f200d"
+    sha: "96f76d1"
+  parameters:
+    - "broadcaster": "gradle-spring-rest-seed"
+    - "follower": "first-spring-rest-from-seed"
+    - "featureName": "SpringBoot.Structure"
+

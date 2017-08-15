@@ -20,6 +20,16 @@
                     ]
                 }
             ]
+        },
+        "gradle-spring-rest-seed": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "first-spring-rest-from-seed"
+                    ]
+                }
+            ]
         }
     }
 }
