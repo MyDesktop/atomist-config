@@ -5,18 +5,7 @@
                 {
                     "name": "SpringBoot.Structure",
                     "followers": [
-                        "testing-atomist-seed",
                         "gradle-spring-rest-seed"
-                    ]
-                }
-            ]
-        },
-        "gradle-spring-rest-seed": {
-            "features": [
-                {
-                    "name": "SpringBoot.Structure",
-                    "followers": [
-                        "first-spring-rest-from-seed"
                     ]
                 }
             ]
